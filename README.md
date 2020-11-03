@@ -1,0 +1,2 @@
+# resources
+Client Point Resources
